@@ -6,6 +6,6 @@ export default function Primeiro() {
         div >
         <
         h2 > Primeiro Componente < /h2>  <p> { msg } </p > < /div >
-
+        
     )
 }
